@@ -276,6 +276,7 @@ Publish the website in the given URL.
 ![output](./static/img/Home.png)
 ![output](./static/img/people.png)
 ![output](./static/img/p1.png)
+![output](./static/img/peop.png)
 ![output](./static/img/Product.png)
 ![output](./static/img/contact.png)
 
