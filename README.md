@@ -274,18 +274,18 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![output](./static/img/Home.png)
-![output](./static/img/People(2).png)
-![output](./static/img/People(3).png)
+![output](./static/img/p.png)
+![output](./static/img/p1.png)
 ![output](./static/img/Product.png)
 ![output](./static/img/contact.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report home.png)
+![output](./static/img/reporthome.png)
 
-![output](./static/img/report people.png)
+![output](./static/img/reportpeople.png)
 
-![output](./static/img/report product.png )
+![output](./static/img/reportproduct.png )
 
-![output](./static/img/report contact.png)
+![output](./static/img/reportcontact.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://fawziya.student.saveetha.in:8000/. HTML code is validated.
